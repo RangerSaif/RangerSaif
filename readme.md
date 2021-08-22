@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RangerSaif
-- 👀 I’m interested in being a software engineer
+- 👀 I want to be a software engineer
 - 🌱 I’m currently learning web developing 
 - 📫 email : 21hasan56@gmail.com
 
